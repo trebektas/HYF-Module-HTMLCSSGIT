@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color:#80ccff;
+  }
+  
+  .bird {
+    width:25%;
+    height:700px;
+    position:absolute;
+    bottom:0px;
+    left:50%;
+    transform: translateX(-50%);
+  }
+  
+  .headsquare {
+    height:350px;
+    width:350px;
+    background-color:black;
+    position:absolute;
+    bottom:0px;
+    left:50%;
+    transform:translateX(-50%);
+    border-radius: 100px 100px 0px 0px;
+    
+  }
+  
+  .triangle {
+    height:0px;
+    width:0px;
+    border-top:70px solid transparent;
+    border-bottom:70px solid transparent;
+    border-left:70px solid #ffee4a;
+    position:absolute;
+    bottom:25%;
+    right:0;
+    transform: translateX(100%)
+  }
+  
+  .eyesquare {
+    height:40px;
+    width:40px;
+    position:absolute;
+    background-color:white;
+    bottom:55%;
+    left:50%;
+    transform:translateX(-50%);
+  }
