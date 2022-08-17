@@ -3,7 +3,7 @@
 WEEK-1
 
 1.Prep exercises
-- 
+- https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/PrepExercises/
 
 2.Command Line Interface
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/CLI_challenge.txt
