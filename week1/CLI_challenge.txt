@@ -1,0 +1,71 @@
+1-1)
+
+We can use dot(.) to create a hidden file or folder
+
+$ touch .hiddentext.txt
+$ mkdir .hiddenfolder
+
+1-2)
+We can use "-a" with ls to display hidden files or folders
+
+$ ls -a
+./  ../  .hidden/  .hidden.txt  hiddenfile.txt  hiddenfolder/
+
+2-)
+We should use "-p" with mkdir to create multiple nested directories
+
+$ mkdir -p /c/Users/Ensar/these/folders/are/just/for/fun
+
+3-1)
+We can use multiple echo commands
+
+$ echo "first message" >> text.txt
+$ echo "second message" >> text.txt
+
+3-2)
+We can write multiple lines with a single echo command.
+
+$ echo "first message
+> second message" >> text.txt
+
+3-3)
+And also we can write a block of multiple lines text in a single command.
+
+cat >> CLI_challenge.txt <<EOL
+1-1)
+
+We can use dot(.) to create a hidden file or folder
+
+$ touch .hiddentext.txt
+$ mkdir .hiddenfolder
+
+1-2)
+We can use "-a" with ls to display hidden files or folders
+
+$ ls -a
+./  ../  .hidden/  .hidden.txt  hiddenfile.txt  hiddenfolder/
+
+2-)
+We should use "-p" with mkdir to create multiple nested directories
+
+$ mkdir -p /c/Users/Ensar/these/folders/are/just/for/fun
+
+3-1)
+We can use multiple echo commands
+
+$ echo "first message" >> text.txt
+$ echo "second message" >> text.txt
+
+3-2)
+We can write multiple lines with a single echo command.
+
+$ echo "first message
+> second message" >> text.txt
+
+3-3)
+And also we can write a block of multiple lines text in a single command.
+
+$ cat >> text.txt <<EOL
+first message
+second message
+EOL
