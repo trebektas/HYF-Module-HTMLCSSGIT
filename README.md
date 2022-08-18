@@ -1,7 +1,6 @@
 # HYF-Module-HTMLCSSGIT
 
 WEEK-1
-
 1.Prep exercises
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/PrepExercises/
 
