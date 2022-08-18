@@ -16,5 +16,7 @@ WEEK-1
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/CSSChallenge5_GimmeSomeWhitespace/
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/CSSChallenge6_TheHeadlineChallenge/
 
-4.Code along
+4.Code along (Watched)
+
 5.PROJECT: Digital Resume
+- https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/Proj_DigitalResume/
