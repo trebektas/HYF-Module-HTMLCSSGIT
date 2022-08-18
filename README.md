@@ -18,4 +18,4 @@ WEEK-1
 4.Code along (Watched)
 
 5.PROJECT: Digital Resume
-- 
+- https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/Proj_DigitalResume/
