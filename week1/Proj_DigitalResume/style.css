@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 850px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr 2fr;
+    grid-template-areas: 
+    "image main"
+    "contact main"
+    "skills main";
+    margin: 30px auto;
+}
+
+.box{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #58351A;
+}
+
+.box1{
+    grid-area: image;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7EDBF;
+}
+
+.box2{
+    grid-area: contact;
+    background-color: #F7EDBF;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box2 ul{
+    list-style: none;
+}
+
+.box2 li{
+    margin: 5px 0px;
+}
+
+.box3{
+    grid-area: skills;
+    background-color: #F7EDBF;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box4{
+    background-color: #F1EED9;
+    grid-area: main;
+    padding: 15px;
+}
+
+.box4 ul{
+    margin: 15px 30px;
+}
+
+.profile {
+    min-width: 40%;
+    max-width: 60%;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+h1 {
+    margin: 15px auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    margin: 15px auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    margin: 20px 0;
+    text-align: left;
+    text-decoration: underline;
+}
+
+svg {
+    margin-right: 5px;
+    vertical-align:bottom;
+}
+
+.box2 p {
+    display: inline;
+}
+
+.box2 p a {
+    text-decoration: none;
+    color: #58351A;
+}
+
+dt {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+dd {
+    margin: 5px 0px;
+    height: 10px;
+    width: 200px;
+    border: 1px solid black;
+    position: relative;
+}
+
+dd::before{
+    content: "";
+    color: #F1EED9;
+    height: 8px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+dd:nth-of-type(1)::before{
+    width: 80%;
+}
+
+dd:nth-of-type(2)::before{
+    width: 75%;
+}
+
+dd:nth-of-type(3)::before{
+    width: 75%;
+}
+
+dd:nth-of-type(4)::before{
+    width: 60%;
+}
+
+dd:nth-of-type(5)::before{
+    width: 90%;
+}
+
+dd:nth-of-type(6)::before{
+    width: 80%;
+}
