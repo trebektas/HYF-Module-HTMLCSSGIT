@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #54704a;
     margin: 0px;
@@ -96,4 +97,104 @@ body {
 #footer p {
     margin: 0px;
     padding-left: 10px;
+=======
+body {
+    background-color: #54704a;
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrap{
+    width: 50%;
+    margin: 0 auto;
+}
+
+#header{
+    background-color: #b5b67d;
+    height: 40px;
+    text-align: right;
+    width: auto ;
+    padding-right: 3%;
+    border-top: 10px solid #b5b67d;
+    border-bottom: 25px solid #b5b67d;
+}
+
+#header h1{
+    margin: 0;
+    font-size: 40px;
+}
+
+#nav {
+    background-color: #689d59;
+    padding: 10px 0px;
+    border-bottom: 4px dashed white;
+}
+
+#nav ul{
+    margin: 0px;
+}
+
+#nav li{
+    list-style-type: none;
+    display: inline;
+    padding: 5px 15px;
+}
+
+#nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color:darkblue;
+}
+
+#sidebar{
+    background-color: #b5b67d;
+    float: right;
+    width: 20%;
+    height: 50%;
+    padding-top: 10px;
+}
+
+#sidebar ul{
+    margin: 0px;
+}
+
+#sidebar h2{
+    font-size: 20px;
+    margin: 10px 0px 10px 10px;
+}
+
+#content {
+    width: 80%;
+    background-color: #738f69;
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 50%;
+    text-align: center;
+}
+
+#content ul{
+    margin: 0px;
+}
+
+#content li{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+#content h1{
+    margin: 0px;
+}
+
+#footer {
+    background-color: #689d59;
+    margin: 0px;
+    border-top: 5px solid #689d59;
+    border-bottom: 5px solid #689d59;
+}
+
+#footer p {
+    margin: 0px;
+    padding-left: 10px;
+>>>>>>> 36249d5 (Created week1 homeworks)
 }

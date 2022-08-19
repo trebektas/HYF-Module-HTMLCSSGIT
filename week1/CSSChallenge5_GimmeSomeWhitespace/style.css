@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     padding: 0%;
     margin: 0%;
@@ -78,3 +79,85 @@
     color:rgb(173, 117, 63) ;
     text-decoration: none;
 }
+=======
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+#header{
+    width: 100%;
+    border-top: 30px solid rgb(173, 117, 63);
+    padding-top: 70px;
+}
+
+#logo{
+    width: 20%;
+    float: left;
+}
+
+#logo img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;   
+}
+
+#header p{
+    width: 70%;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#header blockquote {
+    width: 70%;
+    margin: 0px;
+    float: right;
+    position: relative;
+    left:-5%;
+
+}
+
+#logo h1{
+    display: none;
+}
+
+#content{
+    clear: both;
+}
+
+#content-side{
+    width: 19%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+#content-side a{
+    color:rgb(173, 117, 63) ;
+    text-decoration: none;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#content-side dd{
+    font-family:sans-serif;
+    font-size: 18px;
+}
+
+#content-main{
+    width: 70%;
+    float: right;
+    position: relative;
+    left: -3%;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#content-main a{
+    color:rgb(173, 117, 63) ;
+    text-decoration: none;
+}
+>>>>>>> 36249d5 (Created week1 homeworks)
