@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexbox-section{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.flexbox-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+img {
+    width:20%;
+}
+
+.flexbox-item {
+    padding: 15px;
+    list-style: none;
+    flex-basis: 21%;
+}
