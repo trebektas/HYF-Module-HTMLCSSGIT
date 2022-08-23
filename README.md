@@ -1,5 +1,12 @@
 # HYF-Module-HTMLCSSGIT
 
+WEEK-2
+1.GIT exercise
+- https://github.com/trebektas/favorite-cmd-commands#favorite-cmd-commands/
+
+2.The responsive website
+- In Progress...
+
 WEEK-1
 1.Prep exercises
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/PrepExercises_Week1/
