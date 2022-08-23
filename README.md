@@ -1,6 +1,6 @@
 # HYF-Module-HTMLCSSGIT
 
-WEEK-2
+WEEK-1
 1.GIT exercise
 - https://github.com/trebektas/favorite-cmd-commands#favorite-cmd-commands/
 
@@ -26,3 +26,12 @@ WEEK-1
 
 5.PROJECT: Digital Resume
 - https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week1/Proj_DigitalResume/
+
+
+WEEK-2
+
+1.GIT exercise (the URL of the remote favorite-cmd-commands repository)
+- https://github.com/trebektas/favorite-cmd-commands
+
+2.The responsive website
+- https://trebektas.github.io/HYF-Module-HTMLCSSGIT/week2/coursera-clone/coursera-clone/
