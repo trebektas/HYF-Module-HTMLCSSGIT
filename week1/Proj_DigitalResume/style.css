@@ -78,10 +78,14 @@ h1 {
     font-size: 50px;
 }
 
-h3 {
+.occupation {
     margin: 15px auto;
     text-align: center;
     font-size: 25px;
+}
+
+.box4 p {
+    font-weight: bold;
 }
 
 h2 {
