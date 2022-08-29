@@ -14,7 +14,6 @@
     border-bottom:1px solid rgba(0,0,0,.12) ;
     padding: 10px;
     position: sticky;
-    top:0;
 }
 
 .head-left{
@@ -238,6 +237,7 @@
 .link-courses{
     display: flex;
     flex-wrap: wrap;
+    justify-content:flex-start;
 }
 
 .backgroundcourse{
